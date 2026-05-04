@@ -1,17 +1,11 @@
 # mobileprogramming_uts
 
-UTS - Mobile Programming
 
-## Getting Started
+Mobile Programming - UTS
 
-This project is a starting point for a Flutter application.
+M. Ulil Abror
+241011701032
+04SIFE009
+Sistem Informasi
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sebuah Aplikasi yang menampilakn Pertemuan Pertemuan menggunakan ListView dari Pertemuan 1-7. Kemudian menggunakan Solomon Button bar untuk berpindah menu dashboard dan profile. pada profile terdapat biodata gambar, nama , nim dan lain sebagainya yang bisa di edit.
